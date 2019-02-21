@@ -1,5 +1,5 @@
-vue�𗘗p���Ď����̃u���O���쐬���܂��B
-�y�o�b�N�G���h�z
+vueを利用して自分のブログを作成します。
+【バックエンド】
 Java 1.8
 Spring Boot
 JPA
@@ -7,7 +7,8 @@ QueryDsl
 Postgresql
 
 
-�y�t�����g�z
+
+【フロント】
 vue
 HTML 5.0
 Jquery
